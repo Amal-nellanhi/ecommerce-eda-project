@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="cover image.jpeg" alt="E-Commerce Data Analysis Project Banner" width="100%">
+  <img src="cover_image.jpeg" alt="E-Commerce Data Analysis Project Banner" width="100%">
 </div>
 <br>
 A collaborative Ideathon project exploring real-world user behaviour, sales patterns, and insights from an e-commerce dataset.
