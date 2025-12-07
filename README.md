@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="cover_image.jpeg" alt="E-Commerce Data Analysis Project Banner" width="100%">
+  <img src="images/cover_image.jpeg" alt="E-Commerce Data Analysis Project Banner" width="100%">
 </div>
 <br>
 A collaborative Ideathon project exploring real-world user behaviour, sales patterns, and insights from an e-commerce dataset.
@@ -13,6 +13,8 @@ A collaborative Ideathon project exploring real-world user behaviour, sales patt
 ![Git](https://img.shields.io/badge/GIT-Workflow-f05032?style=for-the-badge&logo=git&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-2ea44f?style=for-the-badge)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-311b92.svg?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 </div>
 
@@ -70,21 +72,24 @@ This structured dataset allows for meaningful segmentation, behavioural analysis
 ---
 ##  Tech Stack
 
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+<p align="center">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin: 0 10px;"/>
   </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" style="margin: 0 10px;"/>
   </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> 
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40" style="margin: 0 10px;"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin: 0 10px;"/>
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" style="margin: 0 10px;"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" style="margin: 0 10px; background-color:white; border-radius:5px;"/>
   </a>
 </p>
 
@@ -101,6 +106,15 @@ This repository includes multiple analyses by different contributors, such as:
 * Return Behaviour Patterns
 * Payment Method Preferences
 * Duration vs Sales Relationship
+
+<p align="center">
+  <img src="images/age-bar.png" width="45%">
+  <img src="images/heat_map.png" width="40%">
+</p>
+<p align="center">
+  <img src="images/pie_output.png" width="38%">
+  <img src="images/pay_bar.png" width="48%">
+</p>
 
 *Team members may include plot images directly inside their Jupyter notebooks for clarity.*
 
