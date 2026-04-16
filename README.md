@@ -141,7 +141,7 @@ Everyone is encouraged to participate.
 
 ## Team
 
-This project is collaboratively maintained by a 5-member team as part of our Ideathon initiative.
+This project is collaboratively maintained by a 6-member team as part of our Ideathon initiative.
 Each member contributes uniquely through independent analyses and insights.
 
 <a href="https://github.com/Amal-nellanhi/ecommerce-eda-project/graphs/contributors">
